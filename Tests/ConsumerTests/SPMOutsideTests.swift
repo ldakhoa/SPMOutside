@@ -1,5 +1,5 @@
 import XCTest
-@testable import SPMOutside
+@testable import Consumer
 
 final class SPMOutsideTests: XCTestCase {
     func testExample() throws {
